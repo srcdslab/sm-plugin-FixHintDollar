@@ -1,0 +1,10 @@
+"lang"
+{
+	"Language"	"English"
+	"Tokens"
+	{
+		"SFUI_ContractKillStart"	"%s1"
+		"SFUI_ScoreboardTitle"	"%s1"
+		"SFUI_Notice_NewWaveBegun_FixHintColorMessages"    "%s1%s2%s3%s4"
+	}
+}
